@@ -10,7 +10,7 @@ You can find solutions to these projects in [this repo](https://github.com/rcdos
 
 ## Credits
 
-This repo was compiled by [Roy Cyril Dosado](https://github.com/rcdosado/).
+This repo is compiled by [Roy Cyril Dosado](https://github.com/rcdosado/).
 
 Problems are motivated by the ones shared at:
 
@@ -23,6 +23,7 @@ Problems are motivated by the ones shared at:
 - [Web Applications](https://github.com/rcdosado/Projects#web-applications)
 - [Mobile Applications](https://github.com/rcdosado/Projects#mobile-applications)
 - [Scripts](https://github.com/rcdosado/Projects#scripts)
+- [Library](https://github.com/rcdosado/Projects#library)
 
 
 Web Applications
@@ -50,5 +51,47 @@ Mobile Applications
 Scripts
 --------
 **calendar  google spreadsheet** - "as we enter events, dates, times,locations into the spreadsheet, it would also populate a google calendar. it pulled data from SFDC into a calendar view"
+
+
+**E Commerce scraper**  - crawling sites, aggregating data, and then storing them either as a CSV file or in MySQL,You will also need to be able to incorporate rotating proxies to lessen the chance of an IP address getting banned.extract the desired information using a short Beautiful Soup script, use Selenium, Phantom JS, Beautiful Soup, use Smart scraping behavior such as adjusting HTTP headers of the scraper to look like it is coming from a browser.
+
+**auto-printer** - automate a printing process using autoit (for instance, a script that will print page 1 of a PDF document to a specific tray of a specific printer, Page 2 of the same document to a different tray, and Page 3 to an entirely different printer).Scripts will also need table to automatically move files from one folder to another after printing. This will be on a windows & operating system .link [Autoit]https://www.autoitscript.com/wiki/Tutorial_Core_Language)
+
+**text-to-powerpoint** - Application that scrapes text file then convert to powerpoint.
+
+**Telagram-Bot** - Telegram bot that sends and receives messages to/from Telegram and HelpScout, All the data must be stored in a mysql db
+the bot must be in PHP,no need for an admin panel,
+  here is the scenario:
+    * a customer starts a conversation on Telegram by sending a message to the BOT. 
+	* the bot forwards the messages to a Helpscout mailbox and when a rep answers on Helpscout, the bot gets the reply and shows it to the customer on Telegram.
+You can find Telegram BOT and Helpscout API docs easily.Specific technologies required: PHP, Mysql, Telegram API, JSON
+
+**attendance-system using facial recognition** - use the library from this [url](https://github.com/ageitgey/face_recognition)
+
+Library
+--------
+
+**text-to-base64** - create an ASP/VBScript function that will encode and decode a document (PDF/RTF/DOCX, etc) to base64.The function should be able to take a document location via a specified path,The output should be a base64 encoded text string (default character set iso-8859-1),it should then be possible to decode that text string back to a binary file, add tests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
