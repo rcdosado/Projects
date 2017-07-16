@@ -6,7 +6,7 @@ A list of real world projects (with description) as seen from different freelanc
 
 ## [Solutions](https://github.com/rcdosado/Projects-Solutions)
 
-You can find solutions to these projects in [this repo](https://github.com/thekarangoel/Projects-Solutions).
+You can find solutions to these projects in [this repo](https://github.com/rcdosado/Projects-Solutions).
 
 ## Credits
 
@@ -20,9 +20,9 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Web Applications](https://github.com/karan/Projects#web-applications)
-- [Mobile Applications](https://github.com/karan/Projects#mobile-applications)
-- [Scripts](https://github.com/karan/Projects#scripts)
+- [Web Applications](https://github.com/rcdosado/Projects#web-applications)
+- [Mobile Applications](https://github.com/rcdosado/Projects#mobile-applications)
+- [Scripts](https://github.com/rcdosado/Projects#scripts)
 
 
 Web Applications
