@@ -22,6 +22,7 @@ Problems are motivated by the ones shared at:
 
 - [Web Applications](https://github.com/karan/Projects#web-applications)
 - [Mobile Applications](https://github.com/karan/Projects#mobile-applications)
+- [Scripts](https://github.com/karan/Projects#scripts)
 
 
 Web Applications
@@ -44,7 +45,10 @@ For each piece of equipment, we will need to track the service history for the e
 Mobile Applications
 -----------------
 
-**task & budgets app** - "Looking for a mobile app developer that can develop an app that manages task and budgets between children and parents. The app will be highly interactive and will reward children after each task is done. The app will also feature a section where the child can add tasks, the parents approve, each approval is assigned a monetary amount. Other sections will include lists for planning, wishlists, etc."
+**task & budgets app** - "an app that manages task and budgets between children and parents. The app will be highly interactive and will reward children after each task is done. The app will also feature a section where the child can add tasks, the parents approve, each approval is assigned a monetary amount. Other sections will include lists for planning, wishlists, etc."
 
+Scripts
+--------
+**calendar  google spreadsheet** - "as we enter events, dates, times,locations into the spreadsheet, it would also populate a google calendar. it pulled data from SFDC into a calendar view"
 
 
